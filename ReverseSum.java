@@ -18,4 +18,4 @@ num = num / 10;
 System.out.println("\n Sum of digit in entered no : " + sum);
 }
 }
-
+//thakre
